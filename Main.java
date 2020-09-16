@@ -1,6 +1,6 @@
 import java.util.Scanner;
 /**
- *This program calcualtes the cost of a customers pizza based on its diameter
+ *This program calcualtes the cost of a customers pizza based on its diameter and size
  * @author Zachary Balean
  */
 public class Main {
